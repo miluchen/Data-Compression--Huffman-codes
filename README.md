@@ -1,1 +1,1 @@
-# Data-Compression----Huffman-codes
+# Data-Compression -- Huffman-codes
