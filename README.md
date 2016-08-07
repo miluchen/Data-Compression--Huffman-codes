@@ -2,13 +2,13 @@
 
 To test the code:
 
-gcc encode.c -o encode
+	gcc encode.c -o encode
 
-gcc decode.c -o decode
+	gcc decode.c -o decode
 
-./encode Holmes.txt
+	./encode Holmes.txt
 
-./decode
+	./decode
 
 
 There will be three .txt files generated:
